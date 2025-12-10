@@ -10,11 +10,16 @@ of a bubble-like interpretation of cosmological dynamics, based on phase-field m
 and fluid-like interactions.
 
 The central idea is that structures resembling expanding or contracting “universes”
-can emerge as stable patterns within a continuous medium, governed by local interaction 
+can emerge as stable patterns within a continuous medium, governed by local interaction
 rules rather than explicitly postulated long-range forces.
 
 This work is presented as a **toy model** and **conceptual framework**, not as a complete
 or experimentally verified theory.
+
+This work is developed within the **Emergent Stability Framework (ESF)** —
+an ontological approach in which particles, fields, and cosmological structures
+are interpreted as stable or metastable configurations of an underlying
+continuous medium, rather than as fundamental point-like objects.
 
 ## Contents
 

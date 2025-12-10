@@ -21,3 +21,14 @@ and this project follows semantic versioning where applicable.
 - No numerical simulations are included yet.
 - Future versions will introduce a formal mathematical description
   and GPU-based numerical experiments.
+
+## [0.2.0] — 2025-12-06
+
+### Added
+- Introduced the Emergent Stability Framework (ESF) as the conceptual basis of the model.
+- Added qualitative interpretation of electrons as locally stable configurations.
+- Added interpretation of photons as propagating stability redistribution modes.
+- Published LaTeX source (`theory-v0.tex`) for the theoretical document.
+
+### Updated
+- Revised `theory-v0.pdf` to include ESF and microphysical interpretation.
