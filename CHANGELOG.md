@@ -22,7 +22,7 @@ and this project follows semantic versioning where applicable.
 - Future versions will introduce a formal mathematical description
   and GPU-based numerical experiments.
 
-## [0.2.0] — 2025-12-06
+## [0.2.0] — 2025-12-10
 
 ### Added
 - Introduced the Emergent Stability Framework (ESF) as the conceptual basis of the model.
@@ -32,3 +32,8 @@ and this project follows semantic versioning where applicable.
 
 ### Updated
 - Revised `theory-v0.pdf` to include ESF and microphysical interpretation.
+
+## [0.2.1] — 2025-12-12
+
+### Added
+- Added a qualitative ESF interpretation of black holes (event horizon as a phase boundary, mergers as interface reconfiguration, Hawking-like radiation as a boundary effect) to `theory-v0`.
