@@ -37,3 +37,7 @@ and this project follows semantic versioning where applicable.
 
 ### Added
 - Added a qualitative ESF interpretation of black holes (event horizon as a phase boundary, mergers as interface reconfiguration, Hawking-like radiation as a boundary effect) to `theory-v0`.
+
+## [0.3.0] — 2025-12-17
+### Added
+- Formal ESF postulates, falsifiability discussion, and minimal mathematical scaffold. `theory-v1`
